@@ -20,7 +20,7 @@ function ShoppingCart({
 			}}>
 			<div className="shoppingCart">
 				<div className="header">
-					<h2>Shopping cart</h2>
+					<h2>Shopping cartt</h2>
 					<button
 						className="btn close-btn"
 						onClick={onClose}>
